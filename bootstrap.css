@@ -1171,7 +1171,7 @@ img {
 }
 .img-circle {
   border-radius: 50%;
-  width:80%;
+  width:100%;
 }
 hr {
   margin-top: 20px;
